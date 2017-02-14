@@ -1,0 +1,3 @@
+interfacer SD sur un PIC32:
+
+http://hades.mech.northwestern.edu/index.php/PIC32MX:_Interfacing_to_a_Secure_Digital_(SD)_Flash_Card
